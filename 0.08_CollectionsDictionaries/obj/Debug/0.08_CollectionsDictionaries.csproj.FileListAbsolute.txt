@@ -1,0 +1,7 @@
+C:\DotNetProject\CSharpLibrary\0.08_CollectionsDictionaries\bin\Debug\0.08_CollectionsDictionaries.exe.config
+C:\DotNetProject\CSharpLibrary\0.08_CollectionsDictionaries\bin\Debug\0.08_CollectionsDictionaries.exe
+C:\DotNetProject\CSharpLibrary\0.08_CollectionsDictionaries\bin\Debug\0.08_CollectionsDictionaries.pdb
+C:\DotNetProject\CSharpLibrary\0.08_CollectionsDictionaries\obj\Debug\0.08_CollectionsDictionaries.csprojResolveAssemblyReference.cache
+C:\DotNetProject\CSharpLibrary\0.08_CollectionsDictionaries\obj\Debug\0.08_CollectionsDictionaries.csproj.CoreCompileInputs.cache
+C:\DotNetProject\CSharpLibrary\0.08_CollectionsDictionaries\obj\Debug\0.08_CollectionsDictionaries.exe
+C:\DotNetProject\CSharpLibrary\0.08_CollectionsDictionaries\obj\Debug\0.08_CollectionsDictionaries.pdb
