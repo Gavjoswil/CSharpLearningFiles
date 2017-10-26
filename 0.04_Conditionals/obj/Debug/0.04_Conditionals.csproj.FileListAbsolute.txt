@@ -1,0 +1,7 @@
+C:\DotNetProject\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Conditionals.exe.config
+C:\DotNetProject\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Conditionals.exe
+C:\DotNetProject\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Conditionals.pdb
+C:\DotNetProject\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.csprojResolveAssemblyReference.cache
+C:\DotNetProject\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.csproj.CoreCompileInputs.cache
+C:\DotNetProject\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.exe
+C:\DotNetProject\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.pdb
