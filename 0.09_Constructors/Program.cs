@@ -16,7 +16,7 @@ namespace _0._09_Constructors
             paulStudent.Age = 41;
             paulStudent.Grade = 12;
 
-            Student alex = new Student()
+            Student alex = new Student();
 
 
             Student jayStudent = new Student("Gavin", "Williams", 20, 1);

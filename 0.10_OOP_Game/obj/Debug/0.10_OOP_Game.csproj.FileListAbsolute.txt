@@ -1,0 +1,7 @@
+C:\DotNetProject\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.csprojResolveAssemblyReference.cache
+C:\DotNetProject\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.csproj.CoreCompileInputs.cache
+C:\DotNetProject\CSharpLibrary\0.10_OOP_Game\bin\Debug\0.10_OOP_Game.exe.config
+C:\DotNetProject\CSharpLibrary\0.10_OOP_Game\bin\Debug\0.10_OOP_Game.exe
+C:\DotNetProject\CSharpLibrary\0.10_OOP_Game\bin\Debug\0.10_OOP_Game.pdb
+C:\DotNetProject\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.exe
+C:\DotNetProject\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.pdb

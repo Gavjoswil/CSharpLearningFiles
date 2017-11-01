@@ -1,0 +1,6 @@
+C:\DotNetProject\CSharpLibrary\0.09_ConstructorChallenge\bin\Debug\0.09_ConstructorChallenge.exe.config
+C:\DotNetProject\CSharpLibrary\0.09_ConstructorChallenge\bin\Debug\0.09_ConstructorChallenge.exe
+C:\DotNetProject\CSharpLibrary\0.09_ConstructorChallenge\bin\Debug\0.09_ConstructorChallenge.pdb
+C:\DotNetProject\CSharpLibrary\0.09_ConstructorChallenge\obj\Debug\0.09_ConstructorChallenge.csproj.CoreCompileInputs.cache
+C:\DotNetProject\CSharpLibrary\0.09_ConstructorChallenge\obj\Debug\0.09_ConstructorChallenge.exe
+C:\DotNetProject\CSharpLibrary\0.09_ConstructorChallenge\obj\Debug\0.09_ConstructorChallenge.pdb
