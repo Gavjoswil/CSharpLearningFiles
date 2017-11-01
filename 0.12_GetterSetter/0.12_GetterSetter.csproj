@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A746D446-1CE6-45FE-9DE5-4BC17CB271E5}</ProjectGuid>
+    <ProjectGuid>{DD5202F4-2627-4401-861E-28513849138B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._11_MethodsOverloading</RootNamespace>
-    <AssemblyName>0.11_MethodsOverloading</AssemblyName>
+    <RootNamespace>_0._12_GetterSetter</RootNamespace>
+    <AssemblyName>0.12_GetterSetter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Player.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
