@@ -15,24 +15,16 @@ namespace _0._10_OOP_Game
         public string Name { get; set; }
         public bool IsAlive { get; set; }
         public int Level { get; set; }
-        public int Health { get; set; }
-        public int AttackLevel { get; set; }
+        public int HitPoints { get; set; }
+        public int Strength { get; set; }
         public int Stamina { get; set; }
-        public int Luck { get; set; }
+        public int OneHanded { get; set; }
+        public int TwoHanded { get; set; }
+        public int Armor { get; set; }
+
 
         //METHODS
-        public void GetPowerLevel()
-        {
-            Random rnd = new Random();
-            int powerLevel = rnd.Next(1, 100);
-            this.Level = powerLevel;
-        }
-        public int Attack(int attackLevel)
-        {
-            Random rnd = new Random();
-            int damage = rnd.Next(1, attackLevel);
-            return damage;
-        }
+
 
 
 
