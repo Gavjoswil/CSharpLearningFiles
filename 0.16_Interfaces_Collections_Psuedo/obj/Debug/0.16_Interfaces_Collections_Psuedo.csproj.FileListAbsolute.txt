@@ -1,0 +1,7 @@
+C:\DotNetProject\CSharpLibrary\0.16_Interfaces_Collections_Psuedo\bin\Debug\0.16_Interfaces_Collections_Psuedo.exe.config
+C:\DotNetProject\CSharpLibrary\0.16_Interfaces_Collections_Psuedo\bin\Debug\0.16_Interfaces_Collections_Psuedo.exe
+C:\DotNetProject\CSharpLibrary\0.16_Interfaces_Collections_Psuedo\bin\Debug\0.16_Interfaces_Collections_Psuedo.pdb
+C:\DotNetProject\CSharpLibrary\0.16_Interfaces_Collections_Psuedo\obj\Debug\0.16_Interfaces_Collections_Psuedo.csprojResolveAssemblyReference.cache
+C:\DotNetProject\CSharpLibrary\0.16_Interfaces_Collections_Psuedo\obj\Debug\0.16_Interfaces_Collections_Psuedo.csproj.CoreCompileInputs.cache
+C:\DotNetProject\CSharpLibrary\0.16_Interfaces_Collections_Psuedo\obj\Debug\0.16_Interfaces_Collections_Psuedo.exe
+C:\DotNetProject\CSharpLibrary\0.16_Interfaces_Collections_Psuedo\obj\Debug\0.16_Interfaces_Collections_Psuedo.pdb
